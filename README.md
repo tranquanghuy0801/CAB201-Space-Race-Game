@@ -1,3 +1,3 @@
-# CAB201-Space-Race-Game
-The CAB201(Programming Principles) Assignment 
-The game has two separate ways of same playing style: The Console Version and The GUI Version (Windows Form) 
+# Space Race Game (Unit CAB201 - Programming Principles)
+
+The repository includes two separate applications (Console & Windows GUI Form) for an online board game <b>Space Race</b>
